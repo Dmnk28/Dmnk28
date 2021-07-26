@@ -9,6 +9,6 @@
 
 <a href="https://www.codewars.com/users/Dmnk28" target="_blank"><img align="left" alt="codewars-account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg"/></a>
 
-[<a href="https://uni-jena.academia.edu/DominikOesterle" target="_blank"><img align="left" alt="academia-account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/academia.svg"/></a>]
+<a href="https://uni-jena.academia.edu/DominikOesterle" target="_blank"><img align="left" alt="academia-account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/academia.svg"/></a>
 
-[<a href="https://www.strava.com/athletes/31359572" target="_blank"><img align="left" alt="strava-account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/strava.svg"/></a>]
+<a href="https://www.strava.com/athletes/31359572" target="_blank"><img align="left" alt="strava-account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/strava.svg"/></a>
