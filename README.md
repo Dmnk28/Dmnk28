@@ -5,7 +5,7 @@
 - Nature Lover and Cyclist (Gravel & Road)
 
 ### Connect:
-<a href="https://www.linkedin.com/in/dominikoesterle/" target="_blank" alt="linkedin-account" sytle="background-color: #fff; border-radius: 10px;"> <svg align="left" alt="linkedin-account" width="25px" style="filter: invert(55%) sepia(56%) saturate(327%) hue-rotate(144deg) brightness(88%) contrast(91%);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"><svg/> </a>
+<a href="https://www.linkedin.com/in/dominikoesterle/" target="_blank" alt="linkedin-account" sytle="background-color: #fff; border-radius: 10px;"> <img align="left" alt="linkedin-account" width="25px" style="filter: invert(55%) sepia(56%) saturate(327%) hue-rotate(144deg) brightness(88%) contrast(91%);" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg"/> </a>
 
 <a href="https://www.codewars.com/users/Dmnk28" target="_blank"><svg align="left" alt="codewars-account" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/codewars.svg"><svg/></a>
 
