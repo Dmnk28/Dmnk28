@@ -1,6 +1,6 @@
-### Hi, I'm Dominik.
+# Hi, I'm Dominik.
 
-## I'm an arabic scientist, web developer, husband and cyclist
+### I'm an arabic scientist, web developer, husband and cyclist
 - at the moment I'm focussing on HTML, CSS, JS and React
 - nature lover and Cyclist (Gravel & Road)
 
@@ -15,5 +15,5 @@
 <br/>
 
 ### What I code:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmnk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmnk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
