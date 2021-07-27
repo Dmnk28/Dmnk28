@@ -14,5 +14,5 @@
 <a href="https://www.strava.com/athletes/31359572" target="_blank"><img align="left" alt="strava-account" width="25px" src="./icons/strava.svg"/></a>
 
 ### What I code:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmnk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmnk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
