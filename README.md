@@ -5,8 +5,8 @@
 - I'm a nature lover. When I'm not coding, I'm cycling (Gravel & Road) or working in the garden
 
 ### Recent Projects:
-- FreeCodeCamp: [Build a 25 + 5 clock](https://do-webdev.de/projects/timer/)
-- FreeCodeCamp: [Random Poetry](https://do-webdev.de/projects/poems/) (Build a Random Quote Machine)
+- FreeCodeCamp: [Exercise Tracker Microservice](https://exercise-tracker.dmnk28.repl.co/)
+- Frontend Mentor: [Advice Generator](https://dmnk28.github.io/advices/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmnk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
