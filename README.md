@@ -1,6 +1,6 @@
 # Hi, I'm Dominik.
 
-## I'm an arabic scientist, web developer, husband and cyclist
+## I'm an arabic scientist, web developer, husband, dad and cyclist
 - at the moment I'm focussing on JS, React and Next.js
 - I'm a nature lover. When I'm not coding, I'm cycling (Gravel & Road) or working in the garden
 
