@@ -1,8 +1,9 @@
 # Hi, I'm Dominik.
 
-## I'm an arabic scientist, web developer, husband, dad and cyclist
-- at the moment I'm focussing on JS, React and Next.js
+## I'm an developer, arabic scientist, husband, dad and cyclist
+- at the moment I'm focussing on learning Java, C# and OOP
 - I'm a nature lover. When I'm not coding, I'm cycling (Gravel & Road) or working in the garden
+- Want to see my Work in action? Check my [Portfolio-Website](https://www.do-webdev.de/)
 
 ### Recent Projects:
 - FreeCodeCamp: [Exercise Tracker Microservice](https://exercise-tracker.dmnk28.repl.co/)
