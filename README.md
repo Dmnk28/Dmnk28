@@ -1,13 +1,13 @@
 # Hi, I'm Dominik.
 
 ## I'm an developer, arabic scientist, husband, dad and cyclist
-- at the moment I'm focussing on learning Java, C# and OOP
+- at the moment I'm focussing on learning Java and preparing for the Certification as Oracle Certified Associate
 - I'm a nature lover. When I'm not coding, I'm cycling (Gravel & Road) or working in the garden
-- Want to see my Work in action? Check my [Portfolio-Website](https://www.do-webdev.de/)
 
-### Recent Projects:
-- FreeCodeCamp: [Exercise Tracker Microservice](https://exercise-tracker.dmnk28.repl.co/)
-- Frontend Mentor: [Advice Generator](https://dmnk28.github.io/advices/)
+### Recently finished Projects:
+- [Portfolio-Website](https://www.do-webdev.de/)
+- Frontend Mentor Challenge: [Space Tourism](https://space-tourism-dun.vercel.app/)
+- Frontend Mentor Challenge: [Advice Generator](https://dmnk28.github.io/advices/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dmnk28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
