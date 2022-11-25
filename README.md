@@ -21,5 +21,5 @@ __I'm an developer, arabic scientist, husband, dad and cyclist__
 
 <a href="https://www.strava.com/athletes/31359572" target="_blank"><img align="left" alt="strava-account" width="25px" src="./icons/strava.svg"/></a>
 
-<a href="https://trailblazer.me/id/dominik0" target="_blank"><img align="left" alt="trailblazer-account" width="25px" src="./icons/trailblazer.svg"/></a>
+<a href="https://trailblazer.me/id/dominik0" target="_blank"><img align="left" alt="trailblazer-account" width="25px" src="./icons/trailblazer.svg" style="margin-top: 10px;"/></a>
 </br>
